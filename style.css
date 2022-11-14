@@ -198,7 +198,7 @@ p{
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .info-segment{
-    margin-top: 20px;
+    margin-top: 50px;
     padding: 25px;
 }
 .info-segment h1{
@@ -261,10 +261,10 @@ p{
         height: 0vh;
     }
     50%{
-        height: 20vh;
+        height: 30vh;
     }
     100%{
-        height: 20vh;
+        height: 30vh;
     }
 }
 @keyframes colors {
