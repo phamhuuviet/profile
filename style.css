@@ -229,7 +229,7 @@ p{
     animation-name: colors;
     animation-duration: 5s;
     animation-fill-mode: both;
-    animation-delay: 15s;
+    animation-delay: 2s;
     animation-iteration-count: infinite;
     animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
     text-align: center;
