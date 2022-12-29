@@ -100,6 +100,11 @@ nav span{
     width: 220px;
     margin-top: 90px;
     border-radius: 50%;
+    transition: transform .2s; /* Animation */
+}
+.picture-segment img:hover {
+    transform: scale(1.6);
+    border-radius: 10%; /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
 .about{
     opacity: 0;
